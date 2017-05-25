@@ -1,0 +1,32 @@
+﻿Build started 15.05.2017 12:13:01.
+     1>Project "C:\Users\livestream\Desktop\test\SimonGame\SimonGame\SimonGame.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\SimonGame.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.5.1\5.5\msvc2010\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.5.1\5.5\msvc2010\include\QtCore /IC:\Qt\Qt5.5.1\5.5\msvc2010\include\QtGui /IC:\Qt\Qt5.5.1\5.5\msvc2010\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt simongame.cpp
+         simongame.cpp
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\livestream\Desktop\test\SimonGame\Win32\Debug\\SimonGame.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.5.1\5.5\msvc2010\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SimonGame.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\livestream\Desktop\test\SimonGame\Win32\Debug\SimonGame.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\livestream\Desktop\test\SimonGame\Win32\Debug\SimonGame.lib" /MACHINE:X86 Debug\Device.obj
+         Debug\DevicePanel.obj
+         Debug\moc_LightItem.obj
+         Debug\moc_simongame.obj
+         Debug\qrc_simongame.obj
+         Debug\LightItem.obj
+         Debug\main.obj
+         Debug\simongame.obj
+         Debug\Tittle.obj
+         LINK : C:\Users\livestream\Desktop\test\SimonGame\Win32\Debug\\SimonGame.exe not found or not built by the last incremental link; performing full link
+         SimonGame.vcxproj -> C:\Users\livestream\Desktop\test\SimonGame\Win32\Debug\SimonGame.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\livestream\Desktop\test\SimonGame\Win32\Debug\\SimonGame.exe;#1" /manifest Debug\SimonGame.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\SimonGame.unsuccessfulbuild".
+         Touching "Debug\SimonGame.lastbuildstate".
+     1>Done Building Project "C:\Users\livestream\Desktop\test\SimonGame\SimonGame\SimonGame.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.76
